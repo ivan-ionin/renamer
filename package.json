@@ -1,0 +1,23 @@
+{
+  "name": "renamer",
+  "version": "1.0.0",
+  "description": "Snake names to camel case and back",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-ionin/renamer.git"
+  },
+  "keywords": [
+    "Snake",
+    "CamelCase"
+  ],
+  "author": "Ivan $. Ionin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivan-ionin/renamer/issues"
+  },
+  "homepage": "https://github.com/ivan-ionin/renamer#readme"
+}
